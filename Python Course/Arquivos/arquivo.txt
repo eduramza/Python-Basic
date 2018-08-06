@@ -1,0 +1,13 @@
+criar a interface com 2 botões e 3 textos marcando as horas dormidas
+Lógica
+	Quando o botão dormir for clicado ele fica disabilitado
+		a text recebe a hora que foi clicado no botão dormir
+		o text de acordar é limpado
+		o text resultado é zerado
+		o botão de acordar fica habilitado
+	Botão de acordar:
+		ele mesmo fica desabilitado
+		botão de dormir habilitado
+		o text de acordar recebe a hora do click
+		o terceiro text recebe o tempo que o cara dormiu na ultima noite
+		
